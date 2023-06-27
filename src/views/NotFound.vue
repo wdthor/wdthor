@@ -1,7 +1,9 @@
 <template>
   <main>
-    <h1>Hey there, I'm wdthor</h1>
-    <BaseButton>Go to projects</BaseButton>
+    <div>
+      <h1>Oops</h1>
+      <BaseButton>Go back to homepage</BaseButton>
+    </div>
   </main>
 </template>
 
