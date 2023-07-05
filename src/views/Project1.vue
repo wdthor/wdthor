@@ -1,7 +1,7 @@
 <template>
-  <div>Project1</div>
+  <ExpandingCards />
 </template>
 
-<script setup lang="ts"></script>
-
-<style scoped></style>
+<script setup lang="ts">
+import ExpandingCards from '@/components/vue/project1/ExpandingCards.vue'
+</script>
