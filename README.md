@@ -6,8 +6,8 @@
 [![My Skills](https://skillicons.dev/icons?i=vue,pinia,ts,vitest,sass)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
-- Preparing for the Vue and Pinia certification
-- Backend development with Python/FastApi
+- Something that looks like React
+- Reviewing JavaScript fundation
 
 ## 🏆 Achievements
-- 🌟 top freeCodeCamp translation contributor 2021 et 2022
+- 🌟 top freeCodeCamp translation contributor 2021, 2022, 2024
